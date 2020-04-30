@@ -42,6 +42,7 @@ namespace Algorithms.Sorting
                         max = j;
                 }
                 collection.Swap(i, max);
+                
             }
         }
     }
